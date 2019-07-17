@@ -1,0 +1,4 @@
+# file: ~/.gitignore_global
+*.iml
+.DS_Store
+.idea
